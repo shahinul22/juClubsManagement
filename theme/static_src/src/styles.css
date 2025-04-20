@@ -1,0 +1,7 @@
+/* src/styles.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optionally, you can also import daisyUI components here if needed */
+@import "daisyui";
